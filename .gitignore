@@ -2,6 +2,7 @@
 npm-debug.*
 yarn-error.log
 node_modules
+*.lock
 
 # mac
 .DS_Store
@@ -11,6 +12,9 @@ Thumbs.db
 
 # webstorm
 .idea/
+
+# vscode
+.vscode/
 
 # jest
 coverage/
