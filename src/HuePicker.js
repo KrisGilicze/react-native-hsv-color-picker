@@ -53,8 +53,8 @@ export default class HuePicker extends Component {
   componentDidUpdate(prevProps) {
     const { hue, barHeight } = this.props;
     if (
-      prevProps.hue !== hue
-      || prevProps.barHeight !== barHeight
+      hue && (prevProps.hue !== hue
+      || prevProps.barHeight !== barHeight)
     ) {
       this.sliderY.setValue(barHeight * hue / 360);
     }
