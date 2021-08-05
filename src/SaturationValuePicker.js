@@ -121,8 +121,8 @@ export default class SaturationValuePicker extends Component {
               '#fff',
               chroma.hsl(hue, 1, 0.5).hex(),
             ]}
-            start={[0, 0.5]}
-            end={[1, 0.5]}
+            start={{ start: 0, end: 0.5 }}
+            end={{ start: 1, end: 0.5 }}
           >
             <LinearGradient
               colors={[
