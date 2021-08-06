@@ -107,10 +107,10 @@ exports[`<HsvColorPicker /> renders correctly 1`] = `
                   ]
                 }
                 end={
-                  Array [
-                    1,
-                    0.5,
-                  ]
+                  Object {
+                   "start": 1,
+                    "end": 0.5,
+                  }
                 }
                 focusable={true}
                 onClick={[Function]}
@@ -146,10 +146,10 @@ exports[`<HsvColorPicker /> renders correctly 1`] = `
                     ]
                   }
                   endPoint={
-                    Array [
-                      1,
-                      0.5,
-                    ]
+                    Object {
+                     "start": 1,
+                      "end": 0.5,
+                    }
                   }
                   focusable={true}
                   onClick={[Function]}
@@ -160,10 +160,10 @@ exports[`<HsvColorPicker /> renders correctly 1`] = `
                   onResponderTerminationRequest={[Function]}
                   onStartShouldSetResponder={[Function]}
                   startPoint={
-                    Array [
-                      0,
-                      0.5,
-                    ]
+                    Object {
+                      "start": 0,
+                      "end": 0.5,
+                    }
                   }
                   style={
                     Array [
@@ -185,10 +185,10 @@ exports[`<HsvColorPicker /> renders correctly 1`] = `
                       ]
                     }
                     endPoint={
-                      Array [
-                        1,
-                        0.5,
-                      ]
+                      Object {
+                        "start": 1,
+                        "end": 0.5,
+                      }
                     }
                     focusable={true}
                     onClick={[Function]}
@@ -199,10 +199,10 @@ exports[`<HsvColorPicker /> renders correctly 1`] = `
                     onResponderTerminationRequest={[Function]}
                     onStartShouldSetResponder={[Function]}
                     startPoint={
-                      Array [
-                        0,
-                        0.5,
-                      ]
+                      Object {
+                        "start": 0,
+                        "end": 0.5,
+                      }
                     }
                     style={
                       Array [
@@ -229,17 +229,17 @@ exports[`<HsvColorPicker /> renders correctly 1`] = `
                             4294967295,
                             4294901760,
                           ],
-                          "endPoint": Array [
-                            1,
-                            0.5,
-                          ],
+                          "endPoint": Object {
+                            "start": 1,
+                            "end": 0.5,
+                          },
                           "focusable": true,
                           "locations": undefined,
                           "onClick": [Function],
-                          "startPoint": Array [
-                            0,
-                            0.5,
-                          ],
+                          "startPoint": Object {
+                            "start": 0,
+                            "end": 0.5,
+                          },
                         }
                       }
                       style={
@@ -267,17 +267,17 @@ exports[`<HsvColorPicker /> renders correctly 1`] = `
                               4294967295,
                               4294901760,
                             ],
-                            "endPoint": Array [
-                              1,
-                              0.5,
-                            ],
+                            "endPoint": Object {
+                              "start": 1,
+                              "end": 0.5,
+                            },
                             "focusable": true,
                             "locations": undefined,
                             "onClick": [Function],
-                            "startPoint": Array [
-                              0,
-                              0.5,
-                            ],
+                            "startPoint": Object {
+                              "start": 0,
+                              "end": 0.5,
+                            },
                           }
                         }
                         style={
