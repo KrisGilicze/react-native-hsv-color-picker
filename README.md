@@ -11,7 +11,7 @@
 ## Preview
 [View Live Demo](https://snack.expo.io/@fuyuanx/react-native-hsv-color-picker)
 
-`react-native-hsv-color-picker` is a fork of [hsv-color-picker](https://github.com/yuanfux/react-native-hsv-color-picker) that doesn't require expo dependencies. If you are working with an expo managed workflow, use that library instead.
+`react-native-hsv-color-picker` is a fork of [hsv-color-picker](https://github.com/yuanfux/react-native-hsv-color-picker) that doesn't require expo dependencies. If you are working with an expo managed workflow, feel free to use that library instead.
 
 Highlighted Features:
 1. **Real Rendering** - no image involved / all colors are truly rendered
@@ -22,7 +22,11 @@ Highlighted Features:
 
 ## Install
 ```bash
-$ npm install react-native-hsv-color-picker --save
+$ npm install react-native-hsv-color-picker
+```
+or 
+```bash
+$ yarn add react-native-hsv-color-picker
 ```
 
 ## Usage
